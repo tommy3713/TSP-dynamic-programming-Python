@@ -21,7 +21,7 @@ python3 TSP_dp.py
 ## 2. Two files will be generated
 ```bash
 1. draw.txt -> used to draw the route
-2. output.txt ->include route, best distance and execute time
+2. output.txt ->include route, best distance and execution time
 ```
 ## 3. gnuplot mode
 ```bash
