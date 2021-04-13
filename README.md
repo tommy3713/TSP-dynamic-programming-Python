@@ -1,6 +1,8 @@
 # TSP-dynamic-programming-Python
 This is a homework from the course Algorithms.
 
+Using Dynamic Programming
+
 Reference: https://github.com/phvargas/TSP-python.git
 
 ## Introduction
