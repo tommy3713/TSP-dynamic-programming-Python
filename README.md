@@ -24,8 +24,6 @@ python3 TSP_dp.py
 
 1. draw.txt -> used to draw the route
 2. output.txt ->include route, best distance and execution time.
-
-output.txt
 ```bash
 Best Visit Order: 1  3  2  11  9  10  5  4  6  7  8  1  
 Best Distance：  167.80695975880067
