@@ -21,9 +21,15 @@ You can simply modify this txt file by changing its idex or position.
 python3 TSP_dp.py
 ```
 ## 2. Two files will be generated
-```bash
+
 1. draw.txt -> used to draw the route
 2. output.txt ->include route, best distance and execution time.
+
+output.txt
+```bash
+Best Visit Order: 1  3  2  11  9  10  5  4  6  7  8  1  
+Best Distance：  167.80695975880067
+Execution Time:  0.1690812110900879  (s)
 ```
 ## 3. gnuplot mode
 ```bash
