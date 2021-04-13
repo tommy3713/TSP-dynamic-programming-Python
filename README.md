@@ -34,10 +34,11 @@ gnuplot
 load "draw.plt"
 ```
 ## 5. Result
-```bash
+
 output.svg will be generated.
+
 Use Chrome or safari to open it
-```
+
 <img width="644" alt="截圖 2021-04-13 下午3 22 30" src="https://user-images.githubusercontent.com/73986032/114512806-13f29c80-9c6c-11eb-949f-16cfa0450799.png">
 
 
