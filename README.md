@@ -15,7 +15,7 @@ Second column is the x cooridinate
 
 Third column is the y cooridinate
 ```
-You can simply modify this txt file.
+You can simply modify this txt file by changing its idex or position.
 ## 1. Run the program
 ```python
 python3 TSP_dp.py
