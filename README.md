@@ -1,5 +1,5 @@
 # TSP-dynamic-programming-Python
-This is a homework from the course Algorithms.
+Traveling salesman problem
 
 Using Dynamic Programming
 
